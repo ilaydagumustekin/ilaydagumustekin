@@ -5,7 +5,7 @@
 🌱 Currently improving my skills in **Mobile App Development** and **Backend Systems**  
 
 ## Connect with Me  
-- 📧 Email: (buraya kendi e-posta adresini yazabilirsin)  
+- 📧 Email:  ilaydagumustekin216@gmail.com
 
 ### Languages and Tools  
 <div align="center">
